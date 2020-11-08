@@ -59,7 +59,7 @@ class extends Whatever {
 
 ## Example
 
-Here is "captcha-input" example based on LitElement for [lite-form](https://www.npmjs.com/package/lite-form)
+Here is `<captcha-input>` example based on LitElement for [lite-form](https://www.npmjs.com/package/lite-form)
 
 ```js
 import { LitElement, html } from 'lit-element'
