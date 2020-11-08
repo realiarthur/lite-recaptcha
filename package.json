@@ -1,0 +1,36 @@
+{
+  "name": "lite-recaptcha",
+  "version": "1.0.0",
+  "description": "Recaptcha Web Component",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c -o dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realiarthur/lite-recaptcha.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "captcha",
+    "google",
+    "web components",
+    "custom element",
+    "webcomponents"
+  ],
+  "author": "Arthur Islamov (https://github.com/realiarthur)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realiarthur/lite-recaptcha/issues"
+  },
+  "homepage": "https://github.com/realiarthur/lite-recaptcha#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "rollup": "^1.20.2",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-replace": "^2.2.0",
+    "rollup-plugin-terser": "^5.1.1"
+  }
+}

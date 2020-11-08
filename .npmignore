@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# src
+/src
+rollup.config.js
+
+# misc
+.DS_Store
+.gitignore
+npm-debug.log*
+package-lock.json
