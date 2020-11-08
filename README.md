@@ -37,7 +37,7 @@ class extends Whatever {
 - sitekey: `String`. Required!
 - hl: `String`. By default recaptcha set by itself
 - size: `normal || compact`. Default: 'normal'
-- theme: `light || dark`. . Default: 'light'
+- theme: `light || dark`. Default: 'light'
 - tabindex: `Number`. Default: 0
 
 ### Callbacks
