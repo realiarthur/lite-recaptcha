@@ -65,7 +65,7 @@ Here is `<captcha-input>` example based on LitElement for [lite-form](https://ww
 import { LitElement, html } from 'lit-element'
 import compose from 'compose-function'
 import { withField, withError } from 'lite-form'
-import 'lite-captcha'
+import 'lite-recaptcha'
 
 class CaptchaInput extends LitElement {
   createRenderRoot() {
