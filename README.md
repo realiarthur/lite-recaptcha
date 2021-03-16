@@ -11,7 +11,7 @@ Recaptcha Web Component. Also works with LitElement.
 Module export LiteCaptcha class, and also define `<lite-capthca>` element.
 
 ```js
-import 'lite-captcha'
+import 'lite-recaptcha'
 import { html } from 'lit-html'
 
 class extends Whatever {
